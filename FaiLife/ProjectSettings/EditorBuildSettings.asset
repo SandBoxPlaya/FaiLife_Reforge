@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Text_box.unity
+    guid: 31ba508ebcfca974ea1957ce272f9c6c
+  - enabled: 1
     path: Assets/Scenes/test1.unity
     guid: e84359906f665f94095e15d03aa43af9
   - enabled: 1
